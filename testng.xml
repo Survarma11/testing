@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="ds.algo.testcases.TestHome"/>
+      <class name="ds.algo.testcases.TestRegister"/>
+      <class name="ds.algo.testcases.TestSignIN"/>
+      <class name="ds.algo.testcases.TestQueue"/>
+      <class name="ds.algo.testcases.TestDsAlgoPortal"/>
+      <class name="ds.algo.testcases.TestTree"/>
+      <class name="ds.algo.testcases.TestLinkedList"/>
+      <class name="ds.algo.testcases.TestGraph"/>
+      <class name="ds.algo.testcases.TestDataStructure"/>
+      <class name="ds.algo.testcases.TestArray"/>
+      <class name="ds.algo.testcases.TestStack"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

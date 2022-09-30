@@ -1,0 +1,688 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>103/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Sep 27 11:09:28 PDT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>245 seconds (245638 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdequeFailed()'><b>TestImplementationusingcollectionsdequeFailed</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td><div><pre>java.lang.AssertionError: expected [Implementation using collections.deque  Art] but found [Implementation using collections.deque]
+	at ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdequeFailed(TestQueue.java:123)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2110623348", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2110623348'><pre>java.lang.AssertionError: expected [Implementation using collections.deque  Art] but found [Implementation using collections.deque]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdequeFailed(TestQueue.java:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestQueueOperationsFailed()'><b>TestQueueOperationsFailed</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td><div><pre>java.lang.AssertionError: expected [Queue Operations sucess] but found [Queue Operations]
+	at ds.algo.testcases.TestQueue.TestQueueOperationsFailed(TestQueue.java:182)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1874451126", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1874451126'><pre>java.lang.AssertionError: expected [Queue Operations sucess] but found [Queue Operations]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at ds.algo.testcases.TestQueue.TestQueueOperationsFailed(TestQueue.java:182)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationOfBST()'><b>TestImplementationOfBST</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestOnlyNumberPaswrd()'><b>TestOnlyNumberPaswrd</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: -345678.0</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTerminologies()'><b>TestTerminologies</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationofBinaryTrees()'><b>TestImplementationofBinaryTrees</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestOperationsinStackTryHere()'><b>TestOperationsinStackTryHere</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinarySearchTreesTryHere()'><b>TestBinarySearchTreesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.ListInsertion()'><b>ListInsertion</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestHome.TestClickDropDownArry()'><b>TestClickDropDownArry</b><br>Test class: ds.algo.testcases.TestHome</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestHome@5ff6dd3c</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestAppilcationsRun()'><b>TestAppilcationsRun</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestOperationsinStack()'><b>TestOperationsinStack</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: John, excel133, john12345</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.EmptyUserPwd()'><b>EmptyUserPwd</b><br>Test class: ds.algo.testcases.TestSignIN</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationinPython()'><b>TestImplementationinPython</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestQueueOperationsTryHere()'><b>TestQueueOperationsTryHere</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestApplictionsTryHere()'><b>TestApplictionsTryHere</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdeque()'><b>TestImplementationusingcollectionsdeque</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTypesOfBinaryTrees()'><b>TestTypesOfBinaryTrees</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestUserNameInField()'><b>TestUserNameInField</b><br>Test class: ds.algo.testcases.TestRegister</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDsAlgoPortal.TestOpenPortal()'><b>TestOpenPortal</b><br>Test class: ds.algo.testcases.TestDsAlgoPortal</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestDsAlgoPortal@11c713b7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDataStructure.lnktimecomplex()'><b>lnktimecomplex</b><br>Test class: ds.algo.testcases.TestDataStructure</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestDataStructure@7a682d35</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserName()'><b>InvalidUserName</b><br>Test class: ds.algo.testcases.TestSignIN<br>Parameters: USER123</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationinPythonTryHere()'><b>TestImplementationinPythonTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserPwd()'><b>InvalidUserPwd</b><br>Test class: ds.algo.testcases.TestSignIN</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ClickBasOperList()'><b>ClickBasOperList</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>4</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDataStructure.TryHereAssessment()'><b>TryHereAssessment</b><br>Test class: ds.algo.testcases.TestDataStructure</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestDataStructure@7a682d35</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinaryTrees()'><b>TestBinaryTrees</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDataStructure.datastructGetStarted()'><b>datastructGetStarted</b><br>Test class: ds.algo.testcases.TestDataStructure</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestDataStructure@7a682d35</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestLessDigitPassword()'><b>TestLessDigitPassword</b><br>Test class: ds.algo.testcases.TestRegister<br>Test method: lower number</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationofBinaryTreesTryHere()'><b>TestImplementationofBinaryTreesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestStarted()'><b>TestStarted</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: Jenny, jack2233, jenny234</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestOverview()'><b>TestOverview</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestImplementationOfBSTTryHere()'><b>TestImplementationOfBSTTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestHome.TesthomeTitle()'><b>TesthomeTitle</b><br>Test class: ds.algo.testcases.TestHome</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestHome@5ff6dd3c</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestWriteInTextBox()'><b>TestWriteInTextBox</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestGraph.ClickGrpStdButton()'><b>ClickGrpStdButton</b><br>Test class: ds.algo.testcases.TestGraph</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestGraph@7bbfc5ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ArraysinPython()'><b>ArraysinPython</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.SucessLogin()'><b>SucessLogin</b><br>Test class: ds.algo.testcases.TestSignIN</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ClickRun2()'><b>ClickRun2</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestAllFieldsEmpty()'><b>TestAllFieldsEmpty</b><br>Test class: ds.algo.testcases.TestRegister</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestAllInputCorrect()'><b>TestAllInputCorrect</b><br>Test class: ds.algo.testcases.TestRegister<br>Test method: all input correct</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ClickRun1()'><b>ClickRun1</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserName()'><b>InvalidUserName</b><br>Test class: ds.algo.testcases.TestSignIN<br>Parameters: S12</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestPassword()'><b>TestPassword</b><br>Test class: ds.algo.testcases.TestRegister</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestOnlyNumberPaswrd()'><b>TestOnlyNumberPaswrd</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: 0.0</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestGraph.ClickGraphTryHere()'><b>ClickGraphTryHere</b><br>Test class: ds.algo.testcases.TestGraph</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestGraph@7bbfc5ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinarySearchTrees()'><b>TestBinarySearchTrees</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.TestStarted()'><b>TestStarted</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestPracticeQuestions()'><b>TestPracticeQuestions</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestGetStartedStack()'><b>TestGetStartedStack</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestPracticeQuestions()'><b>TestPracticeQuestions</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestHome.TestDropDown()'><b>TestDropDown</b><br>Test class: ds.algo.testcases.TestHome</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestHome@5ff6dd3c</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTraversalTryHere()'><b>TestTraversalTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestGetTabRun()'><b>TestGetTabRun</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.TypeOfList()'><b>TypeOfList</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.AllfieldEmpty()'><b>AllfieldEmpty</b><br>Test class: ds.algo.testcases.TestSignIN</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestApplictions()'><b>TestApplictions</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestGraph.GraRun()'><b>GraRun</b><br>Test class: ds.algo.testcases.TestGraph</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestGraph@7bbfc5ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationusingarrayTryHere()'><b>TestImplementationusingarrayTryHere</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTerminologiesTryHere()'><b>TestTerminologiesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: Rahul, dump3333, dress4455</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinaryTreeTraversals()'><b>TestBinaryTreeTraversals</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTypesOfTreeTryHere()'><b>TestTypesOfTreeTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationusingarray()'><b>TestImplementationusingarray</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTreeStarted()'><b>TestTreeStarted</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationofQueueinPythonTryHere()'><b>TestImplementationofQueueinPythonTryHere</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>6</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestclickRun()'><b>TestclickRun</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinaryTreeTraversalsTryHere()'><b>TestBinaryTreeTraversalsTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>4</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationofQueueinPython()'><b>TestImplementationofQueueinPython</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdequeTryHere()'><b>TestImplementationusingcollectionsdequeTryHere</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTraversalsIllustrationTryHere()'><b>TestTraversalsIllustrationTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestImplementation()'><b>TestImplementation</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: Surbhi, Dong123, Surb1234</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestApplicationsofBinarytreesTryHere()'><b>TestApplicationsofBinarytreesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestOnlyNumberPaswrd()'><b>TestOnlyNumberPaswrd</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: 10000.0</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: Himanshu, apache14, opi23234</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestHome.TestDataStructureGetStarted()'><b>TestDataStructureGetStarted</b><br>Test class: ds.algo.testcases.TestHome</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestHome@5ff6dd3c</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.PasswrdEmpty()'><b>PasswrdEmpty</b><br>Test class: ds.algo.testcases.TestSignIN</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTypesOfBinaryTreesTryHere()'><b>TestTypesOfBinaryTreesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestApplicationsofBinarytrees()'><b>TestApplicationsofBinarytrees</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserName()'><b>InvalidUserName</b><br>Test class: ds.algo.testcases.TestSignIN<br>Parameters: SUPERUSER</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ArrayTryHere()'><b>ArrayTryHere</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestClickGetTryHere()'><b>TestClickGetTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDataStructure.lnkpracticequestion()'><b>lnkpracticequestion</b><br>Test class: ds.algo.testcases.TestDataStructure</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestDataStructure@7a682d35</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestImplementationTryHere()'><b>TestImplementationTryHere</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestDsAlgoPortal.TestGetStarted()'><b>TestGetStarted</b><br>Test class: ds.algo.testcases.TestDsAlgoPortal</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestDsAlgoPortal@11c713b7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestOnlyNumberPaswrd()'><b>TestOnlyNumberPaswrd</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: 978654.0</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTypesOfTree()'><b>TestTypesOfTree</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.ListTraversal()'><b>ListTraversal</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserName()'><b>InvalidUserName</b><br>Test class: ds.algo.testcases.TestSignIN<br>Parameters: US*ER!</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.GetStarted()'><b>GetStarted</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestSignIN.InvalidUserName()'><b>InvalidUserName</b><br>Test class: ds.algo.testcases.TestSignIN<br>Parameters: U$ER</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestSignIN@7698b7a4</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestArray.ClickApplicationArray()'><b>ClickApplicationArray</b><br>Test class: ds.algo.testcases.TestArray</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestArray@ee8e7ff</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.ImplementLinkedList()'><b>ImplementLinkedList</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestRegister.TestwrongPasswordConfirm()'><b>TestwrongPasswordConfirm</b><br>Test class: ds.algo.testcases.TestRegister<br>Parameters: Swati, Abcdef11, Doggy12</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestRegister@73894c5a</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.CreateList()'><b>CreateList</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestQueue.TestQueueOperations()'><b>TestQueueOperations</b><br>Test class: ds.algo.testcases.TestQueue</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestQueue@28157173</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestStack.TestImplementationTextBox()'><b>TestImplementationTextBox</b><br>Test class: ds.algo.testcases.TestStack</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestStack@61a2aeb7</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTraversal()'><b>TestTraversal</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>0</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestBinaryTreesTryHere()'><b>TestBinaryTreesTryHere</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>3</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestTree.TestTraversalsIllustration()'><b>TestTraversalsIllustration</b><br>Test class: ds.algo.testcases.TestTree</td>
+<td></td>
+<td>2</td>
+<td>ds.algo.testcases.TestTree@2251b3bc</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestLinkedList.ListDeletion()'><b>ListDeletion</b><br>Test class: ds.algo.testcases.TestLinkedList</td>
+<td></td>
+<td>1</td>
+<td>ds.algo.testcases.TestLinkedList@3a4aadf8</td></tr>
+<tr>
+<td title='ds.algo.testcases.TestGraph.GraRep()'><b>GraRep</b><br>Test class: ds.algo.testcases.TestGraph</td>
+<td></td>
+<td>5</td>
+<td>ds.algo.testcases.TestGraph@7bbfc5ff</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,2640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="20" total="125" passed="103" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T11:09:28 PDT" name="Suite" finished-at="2022-09-27T11:13:33 PDT" duration-ms="245638">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T11:09:28 PDT" name="Test" finished-at="2022-09-27T11:13:33 PDT" duration-ms="245638">
+      <class name="ds.algo.testcases.TestQueue">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:22 PDT" name="Driver" finished-at="2022-09-27T11:10:23 PDT" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:23 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:23 PDT" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofQueueinPython()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:23 PDT" name="TestImplementationofQueueinPython" finished-at="2022-09-27T11:10:25 PDT" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofQueueinPython -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:25 PDT" name="checkFailures" finished-at="2022-09-27T11:10:25 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofQueueinPython status=SUCCESS method=TestQueue.TestImplementationofQueueinPython()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:25 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:25 PDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofQueueinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:25 PDT" name="TestImplementationofQueueinPythonTryHere" finished-at="2022-09-27T11:10:32 PDT" duration-ms="6869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofQueueinPythonTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:32 PDT" name="checkFailures" finished-at="2022-09-27T11:10:32 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofQueueinPythonTryHere status=SUCCESS method=TestQueue.TestImplementationofQueueinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:32 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:33 PDT" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationusingarray()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:33 PDT" name="TestImplementationusingarray" finished-at="2022-09-27T11:10:33 PDT" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationusingarray -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:33 PDT" name="checkFailures" finished-at="2022-09-27T11:10:33 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationusingarray status=SUCCESS method=TestQueue.TestImplementationusingarray()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:33 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:34 PDT" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationusingarrayTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:34 PDT" name="TestImplementationusingarrayTryHere" finished-at="2022-09-27T11:10:35 PDT" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationusingarrayTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:35 PDT" name="checkFailures" finished-at="2022-09-27T11:10:35 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationusingarrayTryHere status=SUCCESS method=TestQueue.TestImplementationusingarrayTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:35 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:36 PDT" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationusingcollectionsdeque()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:36 PDT" name="TestImplementationusingcollectionsdeque" finished-at="2022-09-27T11:10:36 PDT" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationusingcollectionsdeque -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:36 PDT" name="checkFailures" finished-at="2022-09-27T11:10:36 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationusingcollectionsdeque status=SUCCESS method=TestQueue.TestImplementationusingcollectionsdeque()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:36 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:37 PDT" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationusingcollectionsdequeFailed()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:37 PDT" name="TestImplementationusingcollectionsdequeFailed" finished-at="2022-09-27T11:10:37 PDT" duration-ms="573" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Implementation using collections.deque  Art] but found [Implementation using collections.deque]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Implementation using collections.deque  Art] but found [Implementation using collections.deque]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at ds.algo.testcases.TestQueue.TestImplementationusingcollectionsdequeFailed(TestQueue.java:123)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationusingcollectionsdequeFailed -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:37 PDT" name="checkFailures" finished-at="2022-09-27T11:10:37 PDT" duration-ms="165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationusingcollectionsdequeFailed status=FAILURE method=TestQueue.TestImplementationusingcollectionsdequeFailed()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:37 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:38 PDT" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationusingcollectionsdequeTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:38 PDT" name="TestImplementationusingcollectionsdequeTryHere" finished-at="2022-09-27T11:10:39 PDT" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationusingcollectionsdequeTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:39 PDT" name="checkFailures" finished-at="2022-09-27T11:10:39 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationusingcollectionsdequeTryHere status=SUCCESS method=TestQueue.TestImplementationusingcollectionsdequeTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:39 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:40 PDT" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:40 PDT" name="TestPracticeQuestions" finished-at="2022-09-27T11:10:41 PDT" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPracticeQuestions -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:41 PDT" name="checkFailures" finished-at="2022-09-27T11:10:41 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestPracticeQuestions status=SUCCESS method=TestQueue.TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:41 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:41 PDT" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestQueueOperations()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:41 PDT" name="TestQueueOperations" finished-at="2022-09-27T11:10:42 PDT" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestQueueOperations -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:42 PDT" name="checkFailures" finished-at="2022-09-27T11:10:42 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestQueueOperations status=SUCCESS method=TestQueue.TestQueueOperations()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:42 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:42 PDT" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestQueueOperationsFailed()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:42 PDT" name="TestQueueOperationsFailed" finished-at="2022-09-27T11:10:43 PDT" duration-ms="539" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Queue Operations sucess] but found [Queue Operations]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Queue Operations sucess] but found [Queue Operations]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at ds.algo.testcases.TestQueue.TestQueueOperationsFailed(TestQueue.java:182)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestQueueOperationsFailed -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:43 PDT" name="checkFailures" finished-at="2022-09-27T11:10:43 PDT" duration-ms="140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestQueueOperationsFailed status=FAILURE method=TestQueue.TestQueueOperationsFailed()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:43 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:43 PDT" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestQueueOperationsTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:43 PDT" name="TestQueueOperationsTryHere" finished-at="2022-09-27T11:10:45 PDT" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestQueueOperationsTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:45 PDT" name="checkFailures" finished-at="2022-09-27T11:10:45 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestQueueOperationsTryHere status=SUCCESS method=TestQueue.TestQueueOperationsTryHere()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:45 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:45 PDT" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestStarted()[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:45 PDT" name="TestStarted" finished-at="2022-09-27T11:10:46 PDT" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStarted -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestQueue@28157173]" started-at="2022-09-27T11:10:46 PDT" name="checkFailures" finished-at="2022-09-27T11:10:46 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStarted status=SUCCESS method=TestQueue.TestStarted()[pri:0, instance:ds.algo.testcases.TestQueue@28157173] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestQueue -->
+      <class name="ds.algo.testcases.TestGraph">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:33 PDT" name="Driver" finished-at="2022-09-27T11:12:33 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:33 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:33 PDT" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickGraphTryHere()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:33 PDT" name="ClickGraphTryHere" finished-at="2022-09-27T11:12:35 PDT" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGraphTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:35 PDT" name="checkFailures" finished-at="2022-09-27T11:12:35 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickGraphTryHere status=SUCCESS method=TestGraph.ClickGraphTryHere()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:35 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:36 PDT" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickGrpStdButton()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:36 PDT" name="ClickGrpStdButton" finished-at="2022-09-27T11:12:36 PDT" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGrpStdButton -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:36 PDT" name="checkFailures" finished-at="2022-09-27T11:12:36 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickGrpStdButton status=SUCCESS method=TestGraph.ClickGrpStdButton()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:36 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:37 PDT" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="GraRep()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:37 PDT" name="GraRep" finished-at="2022-09-27T11:12:42 PDT" duration-ms="5611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraRep -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:42 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:43 PDT" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:42 PDT" name="checkFailures" finished-at="2022-09-27T11:12:42 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GraRep status=SUCCESS method=TestGraph.GraRep()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="GraRun()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:43 PDT" name="GraRun" finished-at="2022-09-27T11:12:46 PDT" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraRun -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff]" started-at="2022-09-27T11:12:46 PDT" name="checkFailures" finished-at="2022-09-27T11:12:46 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GraRun status=SUCCESS method=TestGraph.GraRun()[pri:0, instance:ds.algo.testcases.TestGraph@7bbfc5ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestGraph -->
+      <class name="ds.algo.testcases.TestDsAlgoPortal">
+        <test-method signature="TestGetStarted()[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7]" started-at="2022-09-27T11:10:46 PDT" name="TestGetStarted" finished-at="2022-09-27T11:10:46 PDT" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetStarted -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7]" started-at="2022-09-27T11:10:46 PDT" name="checkFailures" finished-at="2022-09-27T11:10:46 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestGetStarted status=SUCCESS method=TestDsAlgoPortal.TestGetStarted()[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="TestOpenPortal()[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7]" started-at="2022-09-27T11:10:46 PDT" name="TestOpenPortal" finished-at="2022-09-27T11:10:47 PDT" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7]" started-at="2022-09-27T11:10:47 PDT" name="checkFailures" finished-at="2022-09-27T11:10:47 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOpenPortal status=SUCCESS method=TestDsAlgoPortal.TestOpenPortal()[pri:0, instance:ds.algo.testcases.TestDsAlgoPortal@11c713b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestDsAlgoPortal -->
+      <class name="ds.algo.testcases.TestLinkedList">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:11 PDT" name="Driver" finished-at="2022-09-27T11:12:11 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:11 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:13 PDT" duration-ms="1726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="CreateList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:13 PDT" name="CreateList" finished-at="2022-09-27T11:12:15 PDT" duration-ms="1719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateList -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:15 PDT" name="checkFailures" finished-at="2022-09-27T11:12:15 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateList status=SUCCESS method=TestLinkedList.CreateList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:15 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:16 PDT" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ImplementLinkedList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:16 PDT" name="ImplementLinkedList" finished-at="2022-09-27T11:12:17 PDT" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementLinkedList -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:17 PDT" name="checkFailures" finished-at="2022-09-27T11:12:17 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ImplementLinkedList status=SUCCESS method=TestLinkedList.ImplementLinkedList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:17 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:18 PDT" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ListDeletion()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:18 PDT" name="ListDeletion" finished-at="2022-09-27T11:12:20 PDT" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListDeletion -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:20 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:21 PDT" duration-ms="996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:20 PDT" name="checkFailures" finished-at="2022-09-27T11:12:20 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ListDeletion status=SUCCESS method=TestLinkedList.ListDeletion()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="ListInsertion()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:21 PDT" name="ListInsertion" finished-at="2022-09-27T11:12:23 PDT" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListInsertion -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:23 PDT" name="checkFailures" finished-at="2022-09-27T11:12:23 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ListInsertion status=SUCCESS method=TestLinkedList.ListInsertion()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:23 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:25 PDT" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ListTraversal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:25 PDT" name="ListTraversal" finished-at="2022-09-27T11:12:27 PDT" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListTraversal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:27 PDT" name="checkFailures" finished-at="2022-09-27T11:12:27 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ListTraversal status=SUCCESS method=TestLinkedList.ListTraversal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:27 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:28 PDT" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestStarted()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:28 PDT" name="TestStarted" finished-at="2022-09-27T11:12:29 PDT" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStarted -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:29 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:31 PDT" duration-ms="1862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:29 PDT" name="checkFailures" finished-at="2022-09-27T11:12:29 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStarted status=SUCCESS method=TestLinkedList.TestStarted()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="TypeOfList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:31 PDT" name="TypeOfList" finished-at="2022-09-27T11:12:33 PDT" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypeOfList -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8]" started-at="2022-09-27T11:12:33 PDT" name="checkFailures" finished-at="2022-09-27T11:12:33 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TypeOfList status=SUCCESS method=TestLinkedList.TypeOfList()[pri:0, instance:ds.algo.testcases.TestLinkedList@3a4aadf8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestLinkedList -->
+      <class name="ds.algo.testcases.TestHome">
+        <test-method is-config="true" signature="initDriver()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:22 PDT" name="initDriver" finished-at="2022-09-27T11:09:28 PDT" duration-ms="5807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:28 PDT" name="Driver" finished-at="2022-09-27T11:09:28 PDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:28 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:28 PDT" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestClickDropDownArry()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:28 PDT" name="TestClickDropDownArry" finished-at="2022-09-27T11:09:29 PDT" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickDropDownArry -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:29 PDT" name="checkFailures" finished-at="2022-09-27T11:09:29 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestClickDropDownArry status=SUCCESS method=TestHome.TestClickDropDownArry()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:29 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:29 PDT" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestDataStructureGetStarted()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:29 PDT" name="TestDataStructureGetStarted" finished-at="2022-09-27T11:09:30 PDT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDataStructureGetStarted -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:30 PDT" name="checkFailures" finished-at="2022-09-27T11:09:30 PDT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestDataStructureGetStarted status=SUCCESS method=TestHome.TestDataStructureGetStarted()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:30 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:30 PDT" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestDropDown()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:30 PDT" name="TestDropDown" finished-at="2022-09-27T11:09:30 PDT" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDropDown -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:30 PDT" name="checkFailures" finished-at="2022-09-27T11:09:30 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestDropDown status=SUCCESS method=TestHome.TestDropDown()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:30 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:31 PDT" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TesthomeTitle()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:31 PDT" name="TesthomeTitle" finished-at="2022-09-27T11:09:33 PDT" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TesthomeTitle -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:09:33 PDT" name="checkFailures" finished-at="2022-09-27T11:09:33 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TesthomeTitle status=SUCCESS method=TestHome.TesthomeTitle()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ds.algo.testcases.TestHome@5ff6dd3c]" started-at="2022-09-27T11:13:34 PDT" name="closeBrowser" finished-at="2022-09-27T11:13:34 PDT" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ds.algo.testcases.TestHome -->
+      <class name="ds.algo.testcases.TestSignIN">
+        <test-method is-config="true" signature="logout()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:02 PDT" name="logout" finished-at="2022-09-27T11:10:03 PDT" duration-ms="1599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:03 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:05 PDT" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="AllfieldEmpty()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:05 PDT" name="AllfieldEmpty" finished-at="2022-09-27T11:10:05 PDT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllfieldEmpty -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:05 PDT" name="checkFailures" finished-at="2022-09-27T11:10:05 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AllfieldEmpty status=SUCCESS method=TestSignIN.AllfieldEmpty()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:05 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:06 PDT" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="EmptyUserPwd()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:06 PDT" name="EmptyUserPwd" finished-at="2022-09-27T11:10:06 PDT" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyUserPwd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:06 PDT" name="checkFailures" finished-at="2022-09-27T11:10:06 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EmptyUserPwd status=SUCCESS method=TestSignIN.EmptyUserPwd()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:06 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:07 PDT" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:07 PDT" name="InvalidUserName" data-provider="InvalidUsername" finished-at="2022-09-27T11:10:08 PDT" duration-ms="522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[S12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserName -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:08 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:09 PDT" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:08 PDT" name="checkFailures" finished-at="2022-09-27T11:10:08 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserName status=SUCCESS method=TestSignIN.InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:09 PDT" name="InvalidUserName" data-provider="InvalidUsername" finished-at="2022-09-27T11:10:10 PDT" duration-ms="764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SUPERUSER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserName -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:10 PDT" name="checkFailures" finished-at="2022-09-27T11:10:10 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserName status=SUCCESS method=TestSignIN.InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:10 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:10 PDT" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:10 PDT" name="InvalidUserName" data-provider="InvalidUsername" finished-at="2022-09-27T11:10:11 PDT" duration-ms="547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[U$ER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserName -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:11 PDT" name="checkFailures" finished-at="2022-09-27T11:10:11 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserName status=SUCCESS method=TestSignIN.InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:11 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:16 PDT" duration-ms="4879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:16 PDT" name="InvalidUserName" data-provider="InvalidUsername" finished-at="2022-09-27T11:10:16 PDT" duration-ms="480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US*ER!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserName -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:16 PDT" name="checkFailures" finished-at="2022-09-27T11:10:16 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserName status=SUCCESS method=TestSignIN.InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:16 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:17 PDT" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:17 PDT" name="InvalidUserName" data-provider="InvalidUsername" finished-at="2022-09-27T11:10:17 PDT" duration-ms="500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[USER123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserName -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:17 PDT" name="checkFailures" finished-at="2022-09-27T11:10:17 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserName status=SUCCESS method=TestSignIN.InvalidUserName(java.lang.String)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:17 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:18 PDT" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="InvalidUserPwd()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:18 PDT" name="InvalidUserPwd" finished-at="2022-09-27T11:10:19 PDT" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserPwd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:19 PDT" name="checkFailures" finished-at="2022-09-27T11:10:19 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidUserPwd status=SUCCESS method=TestSignIN.InvalidUserPwd()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:19 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:19 PDT" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="PasswrdEmpty()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:19 PDT" name="PasswrdEmpty" finished-at="2022-09-27T11:10:20 PDT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswrdEmpty -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:20 PDT" name="checkFailures" finished-at="2022-09-27T11:10:20 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PasswrdEmpty status=SUCCESS method=TestSignIN.PasswrdEmpty()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:20 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:20 PDT" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="SucessLogin()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:20 PDT" name="SucessLogin" finished-at="2022-09-27T11:10:22 PDT" duration-ms="1702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SucessLogin -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4]" started-at="2022-09-27T11:10:22 PDT" name="checkFailures" finished-at="2022-09-27T11:10:22 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SucessLogin status=SUCCESS method=TestSignIN.SucessLogin()[pri:0, instance:ds.algo.testcases.TestSignIN@7698b7a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestSignIN -->
+      <class name="ds.algo.testcases.TestStack">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:10 PDT" name="Driver" finished-at="2022-09-27T11:13:10 PDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:10 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:11 PDT" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestAppilcationsRun()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:11 PDT" name="TestAppilcationsRun" finished-at="2022-09-27T11:13:13 PDT" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAppilcationsRun -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:13 PDT" name="checkFailures" finished-at="2022-09-27T11:13:13 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestAppilcationsRun status=SUCCESS method=TestStack.TestAppilcationsRun()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:13 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:14 PDT" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplictions()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:14 PDT" name="TestApplictions" finished-at="2022-09-27T11:13:14 PDT" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplictions -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:14 PDT" name="checkFailures" finished-at="2022-09-27T11:13:14 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplictions status=SUCCESS method=TestStack.TestApplictions()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:14 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:15 PDT" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplictionsTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:15 PDT" name="TestApplictionsTryHere" finished-at="2022-09-27T11:13:16 PDT" duration-ms="1040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplictionsTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:16 PDT" name="checkFailures" finished-at="2022-09-27T11:13:16 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplictionsTryHere status=SUCCESS method=TestStack.TestApplictionsTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:16 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:17 PDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestGetStartedStack()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:17 PDT" name="TestGetStartedStack" finished-at="2022-09-27T11:13:17 PDT" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetStartedStack -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:17 PDT" name="checkFailures" finished-at="2022-09-27T11:13:17 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestGetStartedStack status=SUCCESS method=TestStack.TestGetStartedStack()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:17 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:18 PDT" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementation()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:18 PDT" name="TestImplementation" finished-at="2022-09-27T11:13:18 PDT" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementation -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:18 PDT" name="checkFailures" finished-at="2022-09-27T11:13:18 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementation status=SUCCESS method=TestStack.TestImplementation()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:18 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:19 PDT" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationTextBox()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:19 PDT" name="TestImplementationTextBox" finished-at="2022-09-27T11:13:22 PDT" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationTextBox -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:22 PDT" name="checkFailures" finished-at="2022-09-27T11:13:22 PDT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationTextBox status=SUCCESS method=TestStack.TestImplementationTextBox()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:22 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:23 PDT" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:23 PDT" name="TestImplementationTryHere" finished-at="2022-09-27T11:13:24 PDT" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:24 PDT" name="checkFailures" finished-at="2022-09-27T11:13:24 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationTryHere status=SUCCESS method=TestStack.TestImplementationTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:24 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:24 PDT" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOperationsinStack()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:24 PDT" name="TestOperationsinStack" finished-at="2022-09-27T11:13:25 PDT" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOperationsinStack -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:25 PDT" name="checkFailures" finished-at="2022-09-27T11:13:25 PDT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOperationsinStack status=SUCCESS method=TestStack.TestOperationsinStack()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:25 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:26 PDT" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOperationsinStackTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:26 PDT" name="TestOperationsinStackTryHere" finished-at="2022-09-27T11:13:27 PDT" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOperationsinStackTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:27 PDT" name="checkFailures" finished-at="2022-09-27T11:13:27 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOperationsinStackTryHere status=SUCCESS method=TestStack.TestOperationsinStackTryHere()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:27 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:27 PDT" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestWriteInTextBox()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:27 PDT" name="TestWriteInTextBox" finished-at="2022-09-27T11:13:31 PDT" duration-ms="3260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWriteInTextBox -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:31 PDT" name="checkFailures" finished-at="2022-09-27T11:13:31 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestWriteInTextBox status=SUCCESS method=TestStack.TestWriteInTextBox()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:31 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:31 PDT" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestclickRun()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:31 PDT" name="TestclickRun" finished-at="2022-09-27T11:13:33 PDT" duration-ms="2333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestclickRun -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7]" started-at="2022-09-27T11:13:33 PDT" name="checkFailures" finished-at="2022-09-27T11:13:33 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestclickRun status=SUCCESS method=TestStack.TestclickRun()[pri:0, instance:ds.algo.testcases.TestStack@61a2aeb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestStack -->
+      <class name="ds.algo.testcases.TestRegister">
+        <test-method is-config="true" signature="BannerPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:33 PDT" name="BannerPortal" finished-at="2022-09-27T11:09:33 PDT" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BannerPortal -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:33 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:34 PDT" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestAllFieldsEmpty()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:34 PDT" name="TestAllFieldsEmpty" finished-at="2022-09-27T11:09:34 PDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllFieldsEmpty -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:34 PDT" name="checkFailures" finished-at="2022-09-27T11:09:34 PDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestAllFieldsEmpty status=SUCCESS method=TestRegister.TestAllFieldsEmpty()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:37 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:37 PDT" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:37 PDT" name="TestOnlyNumberPaswrd" data-provider="numberedPassword" finished-at="2022-09-27T11:09:38 PDT" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[978654.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnlyNumberPaswrd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:38 PDT" name="checkFailures" finished-at="2022-09-27T11:09:38 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOnlyNumberPaswrd status=SUCCESS method=TestRegister.TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:38 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:38 PDT" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:38 PDT" name="TestOnlyNumberPaswrd" data-provider="numberedPassword" finished-at="2022-09-27T11:09:39 PDT" duration-ms="435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnlyNumberPaswrd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:39 PDT" name="checkFailures" finished-at="2022-09-27T11:09:39 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOnlyNumberPaswrd status=SUCCESS method=TestRegister.TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:39 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:40 PDT" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:40 PDT" name="TestOnlyNumberPaswrd" data-provider="numberedPassword" finished-at="2022-09-27T11:09:40 PDT" duration-ms="715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-345678.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnlyNumberPaswrd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:40 PDT" name="checkFailures" finished-at="2022-09-27T11:09:40 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOnlyNumberPaswrd status=SUCCESS method=TestRegister.TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:40 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:41 PDT" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:41 PDT" name="TestOnlyNumberPaswrd" data-provider="numberedPassword" finished-at="2022-09-27T11:09:42 PDT" duration-ms="452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnlyNumberPaswrd -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:42 PDT" name="checkFailures" finished-at="2022-09-27T11:09:42 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOnlyNumberPaswrd status=SUCCESS method=TestRegister.TestOnlyNumberPaswrd(java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:42 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:42 PDT" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestPassword()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:42 PDT" name="TestPassword" finished-at="2022-09-27T11:09:43 PDT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPassword -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:43 PDT" name="checkFailures" finished-at="2022-09-27T11:09:43 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestPassword status=SUCCESS method=TestRegister.TestPassword()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:43 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:43 PDT" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestUserNameInField()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:43 PDT" name="TestUserNameInField" finished-at="2022-09-27T11:09:44 PDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUserNameInField -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:44 PDT" name="checkFailures" finished-at="2022-09-27T11:09:44 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestUserNameInField status=SUCCESS method=TestRegister.TestUserNameInField()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:44 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:45 PDT" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:45 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:45 PDT" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Surbhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dong123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Surb1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:45 PDT" name="checkFailures" finished-at="2022-09-27T11:09:45 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:45 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:46 PDT" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:46 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:47 PDT" duration-ms="631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Swati]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcdef11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Doggy12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:47 PDT" name="checkFailures" finished-at="2022-09-27T11:09:47 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:47 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:48 PDT" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:48 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:48 PDT" duration-ms="409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Himanshu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[apache14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[opi23234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:48 PDT" name="checkFailures" finished-at="2022-09-27T11:09:48 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:49 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:50 PDT" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:50 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:50 PDT" duration-ms="570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[excel133]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[john12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:50 PDT" name="checkFailures" finished-at="2022-09-27T11:09:50 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:50 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:51 PDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:51 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:52 PDT" duration-ms="783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dump3333]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dress4455]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:52 PDT" name="checkFailures" finished-at="2022-09-27T11:09:52 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:52 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:53 PDT" duration-ms="944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:53 PDT" name="TestwrongPasswordConfirm" data-provider="WrongConfirmPasswrd" finished-at="2022-09-27T11:09:53 PDT" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jenny]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jack2233]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jenny234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestwrongPasswordConfirm -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:53 PDT" name="checkFailures" finished-at="2022-09-27T11:09:53 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestwrongPasswordConfirm status=SUCCESS method=TestRegister.TestwrongPasswordConfirm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:53 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:54 PDT" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestLessDigitPassword()[pri:2, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:54 PDT" name="TestLessDigitPassword" description="lower number" finished-at="2022-09-27T11:09:55 PDT" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLessDigitPassword -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:55 PDT" name="checkFailures" finished-at="2022-09-27T11:09:55 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestLessDigitPassword status=SUCCESS method=TestRegister.TestLessDigitPassword()[pri:2, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:55 PDT" name="OpenPortal" finished-at="2022-09-27T11:09:56 PDT" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestAllInputCorrect()[pri:3, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:56 PDT" name="TestAllInputCorrect" description="all input correct" finished-at="2022-09-27T11:09:59 PDT" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllInputCorrect -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:59 PDT" name="checkFailures" finished-at="2022-09-27T11:09:59 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestAllInputCorrect status=SUCCESS method=TestRegister.TestAllInputCorrect()[pri:3, instance:ds.algo.testcases.TestRegister@73894c5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="LoginAgain()[pri:0, instance:ds.algo.testcases.TestRegister@73894c5a]" started-at="2022-09-27T11:09:59 PDT" name="LoginAgain" finished-at="2022-09-27T11:10:02 PDT" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAgain -->
+      </class> <!-- ds.algo.testcases.TestRegister -->
+      <class name="ds.algo.testcases.TestDataStructure">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:46 PDT" name="Driver" finished-at="2022-09-27T11:12:46 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:46 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:47 PDT" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TryHereAssessment()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:47 PDT" name="TryHereAssessment" finished-at="2022-09-27T11:12:48 PDT" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TryHereAssessment -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:48 PDT" name="checkFailures" finished-at="2022-09-27T11:12:48 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TryHereAssessment status=SUCCESS method=TestDataStructure.TryHereAssessment()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:48 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:49 PDT" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="datastructGetStarted()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:49 PDT" name="datastructGetStarted" finished-at="2022-09-27T11:12:49 PDT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datastructGetStarted -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:49 PDT" name="checkFailures" finished-at="2022-09-27T11:12:49 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=datastructGetStarted status=SUCCESS method=TestDataStructure.datastructGetStarted()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:49 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:50 PDT" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="lnkpracticequestion()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:50 PDT" name="lnkpracticequestion" finished-at="2022-09-27T11:12:50 PDT" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lnkpracticequestion -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:50 PDT" name="checkFailures" finished-at="2022-09-27T11:12:50 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lnkpracticequestion status=SUCCESS method=TestDataStructure.lnkpracticequestion()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:50 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:51 PDT" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="lnktimecomplex()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:51 PDT" name="lnktimecomplex" finished-at="2022-09-27T11:12:52 PDT" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lnktimecomplex -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35]" started-at="2022-09-27T11:12:52 PDT" name="checkFailures" finished-at="2022-09-27T11:12:52 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lnktimecomplex status=SUCCESS method=TestDataStructure.lnktimecomplex()[pri:0, instance:ds.algo.testcases.TestDataStructure@7a682d35] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestDataStructure -->
+      <class name="ds.algo.testcases.TestArray">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:52 PDT" name="Driver" finished-at="2022-09-27T11:12:52 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:52 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:52 PDT" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ArrayTryHere()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:52 PDT" name="ArrayTryHere" finished-at="2022-09-27T11:12:54 PDT" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrayTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:54 PDT" name="checkFailures" finished-at="2022-09-27T11:12:54 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ArrayTryHere status=SUCCESS method=TestArray.ArrayTryHere()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:54 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:54 PDT" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ArraysinPython()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:54 PDT" name="ArraysinPython" finished-at="2022-09-27T11:12:55 PDT" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArraysinPython -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:55 PDT" name="checkFailures" finished-at="2022-09-27T11:12:55 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ArraysinPython status=SUCCESS method=TestArray.ArraysinPython()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:55 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:55 PDT" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickApplicationArray()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:55 PDT" name="ClickApplicationArray" finished-at="2022-09-27T11:12:59 PDT" duration-ms="3516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickApplicationArray -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:59 PDT" name="checkFailures" finished-at="2022-09-27T11:12:59 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickApplicationArray status=SUCCESS method=TestArray.ClickApplicationArray()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:59 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:59 PDT" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickBasOperList()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:12:59 PDT" name="ClickBasOperList" finished-at="2022-09-27T11:13:04 PDT" duration-ms="4911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickBasOperList -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:04 PDT" name="checkFailures" finished-at="2022-09-27T11:13:04 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickBasOperList status=SUCCESS method=TestArray.ClickBasOperList()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:04 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:04 PDT" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickRun1()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:04 PDT" name="ClickRun1" finished-at="2022-09-27T11:13:06 PDT" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRun1 -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:06 PDT" name="checkFailures" finished-at="2022-09-27T11:13:06 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickRun1 status=SUCCESS method=TestArray.ClickRun1()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:06 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:06 PDT" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="ClickRun2()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:06 PDT" name="ClickRun2" finished-at="2022-09-27T11:13:10 PDT" duration-ms="3479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRun2 -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:10 PDT" name="checkFailures" finished-at="2022-09-27T11:13:10 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickRun2 status=SUCCESS method=TestArray.ClickRun2()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:10 PDT" name="OpenPortal" finished-at="2022-09-27T11:13:10 PDT" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="GetStarted()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:10 PDT" name="GetStarted" finished-at="2022-09-27T11:13:10 PDT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetStarted -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff]" started-at="2022-09-27T11:13:10 PDT" name="checkFailures" finished-at="2022-09-27T11:13:10 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GetStarted status=SUCCESS method=TestArray.GetStarted()[pri:0, instance:ds.algo.testcases.TestArray@ee8e7ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestArray -->
+      <class name="ds.algo.testcases.TestTree">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:47 PDT" name="Driver" finished-at="2022-09-27T11:10:47 PDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:47 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:47 PDT" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplicationsofBinarytrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:47 PDT" name="TestApplicationsofBinarytrees" finished-at="2022-09-27T11:10:50 PDT" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplicationsofBinarytrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:50 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:10:50 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytrees status=SUCCESS method=TestTree.TestApplicationsofBinarytrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:50 PDT" name="checkFailures" finished-at="2022-09-27T11:10:50 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytrees status=SUCCESS method=TestTree.TestApplicationsofBinarytrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:50 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:50 PDT" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplicationsofBinarytreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:50 PDT" name="TestApplicationsofBinarytreesTryHere" finished-at="2022-09-27T11:10:54 PDT" duration-ms="3571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplicationsofBinarytreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:54 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:10:54 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytreesTryHere status=SUCCESS method=TestTree.TestApplicationsofBinarytreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:54 PDT" name="checkFailures" finished-at="2022-09-27T11:10:54 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytreesTryHere status=SUCCESS method=TestTree.TestApplicationsofBinarytreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:54 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:54 PDT" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinarySearchTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:54 PDT" name="TestBinarySearchTrees" finished-at="2022-09-27T11:10:56 PDT" duration-ms="1882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinarySearchTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:56 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:10:56 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTrees status=SUCCESS method=TestTree.TestBinarySearchTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:56 PDT" name="checkFailures" finished-at="2022-09-27T11:10:56 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTrees status=SUCCESS method=TestTree.TestBinarySearchTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:56 PDT" name="OpenPortal" finished-at="2022-09-27T11:10:57 PDT" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinarySearchTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:10:57 PDT" name="TestBinarySearchTreesTryHere" finished-at="2022-09-27T11:11:00 PDT" duration-ms="3278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinarySearchTreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:00 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:00 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTreesTryHere status=SUCCESS method=TestTree.TestBinarySearchTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:00 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:01 PDT" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:00 PDT" name="checkFailures" finished-at="2022-09-27T11:11:00 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTreesTryHere status=SUCCESS method=TestTree.TestBinarySearchTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="TestBinaryTreeTraversals()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:01 PDT" name="TestBinaryTreeTraversals" finished-at="2022-09-27T11:11:05 PDT" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreeTraversals -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:05 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:05 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversals status=SUCCESS method=TestTree.TestBinaryTreeTraversals()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:05 PDT" name="checkFailures" finished-at="2022-09-27T11:11:05 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversals status=SUCCESS method=TestTree.TestBinaryTreeTraversals()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:05 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:05 PDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTreeTraversalsTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:05 PDT" name="TestBinaryTreeTraversalsTryHere" finished-at="2022-09-27T11:11:10 PDT" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreeTraversalsTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:10 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:10 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversalsTryHere status=SUCCESS method=TestTree.TestBinaryTreeTraversalsTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:10 PDT" name="checkFailures" finished-at="2022-09-27T11:11:10 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversalsTryHere status=SUCCESS method=TestTree.TestBinaryTreeTraversalsTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:10 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:10 PDT" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:10 PDT" name="TestBinaryTrees" finished-at="2022-09-27T11:11:12 PDT" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:12 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:12 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTrees status=SUCCESS method=TestTree.TestBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:12 PDT" name="checkFailures" finished-at="2022-09-27T11:11:12 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTrees status=SUCCESS method=TestTree.TestBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:12 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:13 PDT" duration-ms="1085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:13 PDT" name="TestBinaryTreesTryHere" finished-at="2022-09-27T11:11:16 PDT" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:16 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:16 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreesTryHere status=SUCCESS method=TestTree.TestBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:16 PDT" name="checkFailures" finished-at="2022-09-27T11:11:16 PDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreesTryHere status=SUCCESS method=TestTree.TestBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:16 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:16 PDT" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestClickGetTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:16 PDT" name="TestClickGetTryHere" finished-at="2022-09-27T11:11:19 PDT" duration-ms="2553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickGetTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:19 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:19 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestClickGetTryHere status=SUCCESS method=TestTree.TestClickGetTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:19 PDT" name="checkFailures" finished-at="2022-09-27T11:11:19 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestClickGetTryHere status=SUCCESS method=TestTree.TestClickGetTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:19 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:19 PDT" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestGetTabRun()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:19 PDT" name="TestGetTabRun" finished-at="2022-09-27T11:11:22 PDT" duration-ms="2948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetTabRun -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:22 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:22 PDT" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestGetTabRun status=SUCCESS method=TestTree.TestGetTabRun()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:22 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:23 PDT" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:22 PDT" name="checkFailures" finished-at="2022-09-27T11:11:22 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestGetTabRun status=SUCCESS method=TestTree.TestGetTabRun()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method signature="TestImplementationOfBST()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:23 PDT" name="TestImplementationOfBST" finished-at="2022-09-27T11:11:25 PDT" duration-ms="2048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationOfBST -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:25 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:25 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBST status=SUCCESS method=TestTree.TestImplementationOfBST()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:25 PDT" name="checkFailures" finished-at="2022-09-27T11:11:25 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBST status=SUCCESS method=TestTree.TestImplementationOfBST()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:25 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:25 PDT" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationOfBSTTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:25 PDT" name="TestImplementationOfBSTTryHere" finished-at="2022-09-27T11:11:29 PDT" duration-ms="3579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationOfBSTTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:29 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:29 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBSTTryHere status=SUCCESS method=TestTree.TestImplementationOfBSTTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:29 PDT" name="checkFailures" finished-at="2022-09-27T11:11:29 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBSTTryHere status=SUCCESS method=TestTree.TestImplementationOfBSTTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:29 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:30 PDT" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationinPython()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:30 PDT" name="TestImplementationinPython" finished-at="2022-09-27T11:11:31 PDT" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationinPython -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:31 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:31 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPython status=SUCCESS method=TestTree.TestImplementationinPython()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:31 PDT" name="checkFailures" finished-at="2022-09-27T11:11:31 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPython status=SUCCESS method=TestTree.TestImplementationinPython()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:31 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:31 PDT" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:31 PDT" name="TestImplementationinPythonTryHere" finished-at="2022-09-27T11:11:35 PDT" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationinPythonTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:35 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:35 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPythonTryHere status=SUCCESS method=TestTree.TestImplementationinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:35 PDT" name="checkFailures" finished-at="2022-09-27T11:11:35 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPythonTryHere status=SUCCESS method=TestTree.TestImplementationinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:35 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:35 PDT" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:35 PDT" name="TestImplementationofBinaryTrees" finished-at="2022-09-27T11:11:36 PDT" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofBinaryTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:36 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:37 PDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTrees status=SUCCESS method=TestTree.TestImplementationofBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:37 PDT" name="checkFailures" finished-at="2022-09-27T11:11:37 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTrees status=SUCCESS method=TestTree.TestImplementationofBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:37 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:37 PDT" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:37 PDT" name="TestImplementationofBinaryTreesTryHere" finished-at="2022-09-27T11:11:40 PDT" duration-ms="2918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofBinaryTreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:40 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:40 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTreesTryHere status=SUCCESS method=TestTree.TestImplementationofBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:40 PDT" name="checkFailures" finished-at="2022-09-27T11:11:40 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTreesTryHere status=SUCCESS method=TestTree.TestImplementationofBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:40 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:41 PDT" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOverview()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:41 PDT" name="TestOverview" finished-at="2022-09-27T11:11:41 PDT" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOverview -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:41 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:41 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOverview status=SUCCESS method=TestTree.TestOverview()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:41 PDT" name="checkFailures" finished-at="2022-09-27T11:11:41 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOverview status=SUCCESS method=TestTree.TestOverview()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:41 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:42 PDT" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:42 PDT" name="TestPracticeQuestions" finished-at="2022-09-27T11:11:42 PDT" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPracticeQuestions -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:42 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:42 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestPracticeQuestions status=SUCCESS method=TestTree.TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:42 PDT" name="checkFailures" finished-at="2022-09-27T11:11:42 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestPracticeQuestions status=SUCCESS method=TestTree.TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:42 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:43 PDT" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTerminologies()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:43 PDT" name="TestTerminologies" finished-at="2022-09-27T11:11:43 PDT" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTerminologies -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:43 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:43 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologies status=SUCCESS method=TestTree.TestTerminologies()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:43 PDT" name="checkFailures" finished-at="2022-09-27T11:11:43 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologies status=SUCCESS method=TestTree.TestTerminologies()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:43 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:44 PDT" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTerminologiesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:44 PDT" name="TestTerminologiesTryHere" finished-at="2022-09-27T11:11:46 PDT" duration-ms="2529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTerminologiesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:46 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:46 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologiesTryHere status=SUCCESS method=TestTree.TestTerminologiesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:46 PDT" name="checkFailures" finished-at="2022-09-27T11:11:46 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologiesTryHere status=SUCCESS method=TestTree.TestTerminologiesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:46 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:47 PDT" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:47 PDT" name="TestTraversal" finished-at="2022-09-27T11:11:48 PDT" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:48 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:48 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversal status=SUCCESS method=TestTree.TestTraversal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:48 PDT" name="checkFailures" finished-at="2022-09-27T11:11:48 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversal status=SUCCESS method=TestTree.TestTraversal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:48 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:48 PDT" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:48 PDT" name="TestTraversalTryHere" finished-at="2022-09-27T11:11:52 PDT" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:52 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:52 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalTryHere status=SUCCESS method=TestTree.TestTraversalTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:52 PDT" name="checkFailures" finished-at="2022-09-27T11:11:52 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalTryHere status=SUCCESS method=TestTree.TestTraversalTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:52 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:52 PDT" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalsIllustration()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:52 PDT" name="TestTraversalsIllustration" finished-at="2022-09-27T11:11:55 PDT" duration-ms="2980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalsIllustration -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:55 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:55 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustration status=SUCCESS method=TestTree.TestTraversalsIllustration()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:55 PDT" name="checkFailures" finished-at="2022-09-27T11:11:55 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustration status=SUCCESS method=TestTree.TestTraversalsIllustration()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:55 PDT" name="OpenPortal" finished-at="2022-09-27T11:11:56 PDT" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalsIllustrationTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:56 PDT" name="TestTraversalsIllustrationTryHere" finished-at="2022-09-27T11:11:59 PDT" duration-ms="3712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalsIllustrationTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:59 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:11:59 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustrationTryHere status=SUCCESS method=TestTree.TestTraversalsIllustrationTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:59 PDT" name="checkFailures" finished-at="2022-09-27T11:11:59 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustrationTryHere status=SUCCESS method=TestTree.TestTraversalsIllustrationTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:11:59 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:00 PDT" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTreeStarted()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:00 PDT" name="TestTreeStarted" finished-at="2022-09-27T11:12:01 PDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTreeStarted -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:01 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:12:01 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTreeStarted status=SUCCESS method=TestTree.TestTreeStarted()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:01 PDT" name="checkFailures" finished-at="2022-09-27T11:12:01 PDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTreeStarted status=SUCCESS method=TestTree.TestTreeStarted()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:01 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:01 PDT" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:01 PDT" name="TestTypesOfBinaryTrees" finished-at="2022-09-27T11:12:03 PDT" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfBinaryTrees -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:03 PDT" name="checkFailures" finished-at="2022-09-27T11:12:03 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTrees status=SUCCESS method=TestTree.TestTypesOfBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:03 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:12:03 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTrees status=SUCCESS method=TestTree.TestTypesOfBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:03 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:03 PDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:03 PDT" name="TestTypesOfBinaryTreesTryHere" finished-at="2022-09-27T11:12:07 PDT" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfBinaryTreesTryHere -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:07 PDT" name="checkFailures" finished-at="2022-09-27T11:12:07 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTreesTryHere status=SUCCESS method=TestTree.TestTypesOfBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:07 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:12:07 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTreesTryHere status=SUCCESS method=TestTree.TestTypesOfBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:07 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:07 PDT" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfTree()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:07 PDT" name="TestTypesOfTree" finished-at="2022-09-27T11:12:08 PDT" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfTree -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:08 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:12:08 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTree status=SUCCESS method=TestTree.TestTypesOfTree()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:08 PDT" name="checkFailures" finished-at="2022-09-27T11:12:08 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTree status=SUCCESS method=TestTree.TestTypesOfTree()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:08 PDT" name="OpenPortal" finished-at="2022-09-27T11:12:08 PDT" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfTreeTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:08 PDT" name="TestTypesOfTreeTryHere" finished-at="2022-09-27T11:12:11 PDT" duration-ms="2667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfTreeTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:11 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-27T11:12:11 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTreeTryHere status=SUCCESS method=TestTree.TestTypesOfTreeTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="checkFailures(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc]" started-at="2022-09-27T11:12:11 PDT" name="checkFailures" finished-at="2022-09-27T11:12:11 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTreeTryHere status=SUCCESS method=TestTree.TestTypesOfTreeTryHere()[pri:0, instance:ds.algo.testcases.TestTree@2251b3bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFailures -->
+      </class> <!-- ds.algo.testcases.TestTree -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

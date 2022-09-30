@@ -1,0 +1,184 @@
+2022-09-27 13:24:32.148 [main] INFO  ds.algo.testcases.TestRegister - Before Class of Class Home Executing
+2022-09-27 13:24:32.628 [main] INFO  ds.algo.testcases.TestRegister - Running Before Method
+2022-09-27 13:24:33.327 [main] INFO  ds.algo.testcases.TestRegister - Checking DropDrown Button
+2022-09-27 13:24:33.851 [main] INFO  ds.algo.testcases.TestRegister - Running Before Method
+2022-09-27 13:24:34.167 [main] INFO  ds.algo.testcases.TestRegister - Clicking GetStarted Button
+2022-09-27 13:24:34.649 [main] INFO  ds.algo.testcases.TestRegister - Running Before Method
+2022-09-27 13:24:34.716 [main] INFO  ds.algo.testcases.TestRegister - Validating Banner Title
+2022-09-27 13:24:35.261 [main] INFO  ds.algo.testcases.TestRegister - Running Before Method
+2022-09-27 13:24:37.289 [main] INFO  ds.algo.testcases.TestRegister - Starting before class
+2022-09-27 13:24:37.290 [main] INFO  ds.algo.testcases.TestRegister - Completed before suite
+2022-09-27 13:24:38.084 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:38.818 [main] INFO  ds.algo.testcases.TestRegister - Starting test case TestAllFieldsEmpty
+2022-09-27 13:24:38.902 [main] INFO  ds.algo.testcases.TestRegister - Asserting valid input or not
+2022-09-27 13:24:38.936 [main] INFO  ds.algo.testcases.TestRegister - Asserting error message
+2022-09-27 13:24:38.936 [main] INFO  ds.algo.testcases.TestRegister - Completed test case TestAllFieldsEmpty
+2022-09-27 13:24:40.924 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:42.190 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with only numbers in password
+2022-09-27 13:24:42.198 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:43.513 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with only numbers in password
+2022-09-27 13:24:43.517 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:44.924 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with only numbers in password
+2022-09-27 13:24:44.931 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:46.451 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with only numbers in password
+2022-09-27 13:24:46.458 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:47.469 [main] INFO  ds.algo.testcases.TestRegister - Completed test case without entering ConfirmPassword
+2022-09-27 13:24:47.476 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:48.396 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with only UserName
+2022-09-27 13:24:48.497 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:49.854 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:49.859 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:51.363 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:51.369 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:52.621 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:52.628 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:54.198 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:54.202 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:55.323 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:55.329 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:56.530 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with wrong password
+2022-09-27 13:24:56.537 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:24:57.883 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with invalid type password 
+2022-09-27 13:24:57.888 [main] INFO  ds.algo.testcases.TestRegister - Starting before method
+2022-09-27 13:25:01.971 [main] INFO  ds.algo.testcases.TestRegister - Completed test case with all correct input
+2022-09-27 13:25:21.203 [main] INFO  ds.algo.testcases.TestRegister - Before Suite of Class TestQueue Executing
+2022-09-27 13:25:22.965 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:24.462 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationofQueueinPython
+2022-09-27 13:25:25.154 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:28.969 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationofQueueinPythonTryHere
+2022-09-27 13:25:29.451 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:30.811 [main] INFO  ds.algo.testcases.TestRegister - Clicking Implementationusingarray
+2022-09-27 13:25:31.386 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:33.132 [main] INFO  ds.algo.testcases.TestRegister - ClickingUser ImplementationusingarrayTryHere
+2022-09-27 13:25:33.791 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:35.952 [main] INFO  ds.algo.testcases.TestRegister - Clicking Implementationusingcollectionsdeque
+2022-09-27 13:25:37.235 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:38.534 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:40.250 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationusingcollectionsdequeTryHere
+2022-09-27 13:25:40.785 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:41.848 [main] INFO  ds.algo.testcases.TestRegister - Clicking TestPracticeQuestions
+2022-09-27 13:25:43.344 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:44.132 [main] INFO  ds.algo.testcases.TestRegister - Clicking QueueOperations
+2022-09-27 13:25:45.223 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:46.636 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:48.618 [main] INFO  ds.algo.testcases.TestRegister - Clicking QueueOperationsTryHere
+2022-09-27 13:25:49.258 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:25:49.730 [main] INFO  ds.algo.testcases.TestRegister - Queue Get Started
+2022-09-27 13:25:50.175 [main] INFO  ds.algo.testcases.TestRegister - User Succesfully Click on Get started
+2022-09-27 13:25:51.517 [main] INFO  ds.algo.testcases.TestRegister - User Succesfully open the Welcome Page
+2022-09-27 13:25:52.044 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:25:53.809 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open ApplicationsofBinarytrees
+2022-09-27 13:25:54.640 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:25:58.587 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:25:59.926 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open BinarySearchTrees
+2022-09-27 13:26:01.088 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:05.133 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:06.166 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open BinaryTreeTraversals
+2022-09-27 13:26:06.654 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:09.506 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:10.847 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open  TestBinaryTrees
+2022-09-27 13:26:11.298 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:14.224 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:16.304 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open OverviewOfTreeTryHere
+2022-09-27 13:26:16.823 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:19.055 [main] INFO  ds.algo.testcases.TestRegister - Clicking Run Tab 
+2022-09-27 13:26:19.538 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:20.482 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open ImplementationOfBST
+2022-09-27 13:26:21.008 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:23.641 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationOfBSTTryHere
+2022-09-27 13:26:24.127 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:25.046 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open ImplementationinPython
+2022-09-27 13:26:25.460 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:28.042 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationinPythonTryHere
+2022-09-27 13:26:28.485 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:29.493 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open ImplementationofBinaryTrees
+2022-09-27 13:26:29.958 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:32.571 [main] INFO  ds.algo.testcases.TestRegister - Clicking ImplementationofBinaryTreesTryHere
+2022-09-27 13:26:33.024 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:33.646 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open Overview of Trees
+2022-09-27 13:26:34.048 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:34.839 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open PracticeQuestions
+2022-09-27 13:26:35.258 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:36.285 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open Test Terminologies
+2022-09-27 13:26:36.917 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:38.737 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:39.682 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open Traversal
+2022-09-27 13:26:40.146 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:43.243 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:44.328 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open TraversalsIllustration
+2022-09-27 13:26:44.834 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:47.977 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:48.337 [main] INFO  ds.algo.testcases.TestRegister - Tree Get Started Succesfully
+2022-09-27 13:26:48.795 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:49.858 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open TypesOfBinaryTrees
+2022-09-27 13:26:50.387 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:53.963 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:54.824 [main] INFO  ds.algo.testcases.TestRegister - Succesfully open TypesOfTree
+2022-09-27 13:26:55.274 [main] INFO  ds.algo.testcases.TestRegister - BeforeClass Executing
+2022-09-27 13:26:57.914 [main] INFO  ds.algo.testcases.TestRegister - Before Suite of Class TestQueue Executing
+2022-09-27 13:26:58.363 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:00.398 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:02.236 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:04.144 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:05.901 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:07.625 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:09.410 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:10.837 [main] INFO  ds.algo.testcases.TestGraph - Before Suite of Class TestQueue Executing
+2022-09-27 13:27:11.422 [main] INFO  ds.algo.testcases.TestGraph - Before Method Executing
+2022-09-27 13:27:11.821 [main] INFO  ds.algo.pages.GraphPage - successfully clicked Graph
+2022-09-27 13:27:14.126 [main] INFO  ds.algo.testcases.TestGraph - Before Method Executing
+2022-09-27 13:27:14.510 [main] INFO  ds.algo.pages.GraphPage - successfully clicked Graph
+2022-09-27 13:27:15.047 [main] INFO  ds.algo.testcases.TestGraph - Before Method Executing
+2022-09-27 13:27:15.312 [main] INFO  ds.algo.pages.GraphPage - successfully clicked Graph
+2022-09-27 13:27:17.597 [main] INFO  ds.algo.pages.GraphPage - successfully clicked Graph Representations
+2022-09-27 13:27:20.625 [main] INFO  ds.algo.testcases.TestGraph - Before Method Executing
+2022-09-27 13:27:20.863 [main] INFO  ds.algo.pages.GraphPage - successfully clicked Graph
+2022-09-27 13:27:23.786 [main] INFO  ds.algo.testcases.TestRegister - Before Suite of Class TestQueue Executing
+2022-09-27 13:27:24.260 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:24.575 [main] INFO  ds.algo.pages.DataStructure - Get started button click successfull
+2022-09-27 13:27:24.878 [main] INFO  ds.algo.pages.DataStructure - Time Complexity link clicked successfull
+2022-09-27 13:27:25.541 [main] INFO  ds.algo.pages.DataStructure - Data Structure code validation completed successfull
+2022-09-27 13:27:25.993 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:26.513 [main] INFO  ds.algo.pages.DataStructure - Get started button click successfull
+2022-09-27 13:27:26.935 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:27.174 [main] INFO  ds.algo.pages.DataStructure - Get started button click successfull
+2022-09-27 13:27:27.421 [main] INFO  ds.algo.pages.DataStructure - Time Complexity link clicked successfull
+2022-09-27 13:27:27.646 [main] INFO  ds.algo.pages.DataStructure - Practice Questions link clicked successfull
+2022-09-27 13:27:28.095 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:28.477 [main] INFO  ds.algo.pages.DataStructure - Get started button click successfull
+2022-09-27 13:27:28.712 [main] INFO  ds.algo.pages.DataStructure - Time Complexity link clicked successfull
+2022-09-27 13:27:28.724 [main] INFO  ds.algo.testcases.TestRegister - Before Suite of Class TestQueue Executing
+2022-09-27 13:27:29.156 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:29.438 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:29.947 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:30.826 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:31.119 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:31.367 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:31.873 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:32.165 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:32.412 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:32.647 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Applications Array
+2022-09-27 13:27:35.725 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:36.032 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:36.256 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:36.544 [main] INFO  ds.algo.pages.ArrayPage - successfully Basic Operations in Lists
+2022-09-27 13:27:40.611 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:40.933 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:41.146 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:42.297 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:42.575 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:42.799 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Array in Python
+2022-09-27 13:27:44.083 [main] INFO  ds.algo.pages.ArrayPage - successfully clicked Arrays Using List
+2022-09-27 13:27:46.175 [main] INFO  ds.algo.testcases.TestRegister - Before Method Executing
+2022-09-27 13:27:46.467 [main] INFO  ds.algo.pages.ArrayPage - Successfully clicked the Array
+2022-09-27 13:27:47.016 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:49.923 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:51.075 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:52.579 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:53.245 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:54.294 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:56.757 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:58.162 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:27:59.542 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:28:01.066 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
+2022-09-27 13:28:04.716 [main] INFO  ds.algo.testcases.TestStack - Before Method Executing
